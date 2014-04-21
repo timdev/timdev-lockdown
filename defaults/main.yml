@@ -1,0 +1,5 @@
+---
+fail2ban_ignoreip: "127.0.0.1/8"
+fail2ban_bantime: "600"
+fail2ban_maxretry: "3"
+fail2ban_destemail: "root@localhost"
